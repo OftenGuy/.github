@@ -1,5 +1,5 @@
 # <img src="https://github.com/OftenGuy/.github/blob/main/OftenGuy.png?raw=true" width="40" height="40"> OftenGuy <img src="https://github.com/OftenGuy/.github/blob/main/OftenGuy.png?raw=true" width="40" height="40">
-Just a black and white "thing" who's here often.
+Just a boring black and white "thing" who's here often.
 
 Website: <a target="_blank" title="OftenGuy's Website" href="https://oftenguy.github.io">https://oftenguy.github.io</a>
 
